@@ -1,7 +1,13 @@
-/**
+
+/*
+Solved on leetcode.com on 03/09/2019
+Problem Description: 
+Count the number of prime numbers less than a non-negative number, n.
+
  * @param {number} n
  * @return {number}
- */
+ *  */
+
 const test = 52;
 
 var countPrimes = function(n) {
