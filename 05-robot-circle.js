@@ -12,6 +12,7 @@
  return true. Otherwise, return false.
 
  If the last word does not exist, return 0.
+ 
  * @param {string} moves
  * @return {boolean}
  */
